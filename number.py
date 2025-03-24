@@ -1,2 +1,2 @@
 def calc(n: int):
-    return n * 2
+    return n * 4
